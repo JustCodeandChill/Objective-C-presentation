@@ -1,0 +1,30 @@
+Mark Rendle
+
+AD 60: Alexandria (Heron - Dutch: Men's toilet)
+	configurable puppet machine
+	
+Joseph Marie Jacquard
+	created punch card ( same mechanism ) of metal to wove different patterns to rugs and carpets
+	
+Charles Babbage
+	created a machine to calculate: calculation engine. Went to UK Parliament and asked for 1M pounds to build it
+	but then he realized he can make a much more advance engine that can do analytical engine and he asked the Parliament for 2M pounds but they rejected
+	He completed his blueprint for the engine but never had a chance to make it. He wrote a book about how it can work though.
+	London Science Museum replicated his design and created it and they ran a test and it showed the correct answer.
+	
+Ada Lovelace - World first programmer (Italian)
+	She translated Charles book and learned how to program the analytical engine, and she sketched out what it would do if the machine works. And people test it and it shows correct answer.
+	
+Mid 20th centery
+	So in the WW2 the German were so arrogant with their Enigma encrypting machine and so Alan Turing created the Turing Machine to decode it, and it works, but the British army decided not to reveal it so that the Germans will not noticed.
+	
+	Tommy Flowers built the first progamable computer out of the Turing Machine .He works at British post office and with telegraph relays. He built with AND and NOT and XOR and ... out of telegraph relays. It is called Colossus. The British government after winning the WW2 they destroyed all these machines and not allowing anyone to reveal that they know how to crack the Enigma so they could distribute all Enigma to all countries and figured out what the others are talking about.
+	
+	Because no one knowed the Colossus and the Turing Machine, the all thought that the first computer was the Manchester baby: which can store a program and run it.
+	Meanwhile in the US the build the ENIAC which was considered the most powerful computing machine at the time.
+	
+1950s: Compiler was a job title - people that translate math to short code 
+	Short Code: created by some one worked at IBM
+	
+	Speedcoding: (1952) by John Backus
+	
