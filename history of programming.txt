@@ -26,5 +26,96 @@ Mid 20th centery
 1950s: Compiler was a job title - people that translate math to short code 
 	Short Code: created by some one worked at IBM
 	
-	Speedcoding: (1952) by John Backus
+	Speedcoding: (1952) by John Backus - IBM
 	
+	The first automated compiler: A-0
+	created by Grace Hopper an officer in the navy in UK. It acts like a loader and linker more than a notion of a modern compiler
+
+	Autocode by Alec Glennie was the first programming language provided with a compiler.
+	
+	Autocode compiler and A-0 was both considered the first compiler because Autocode was created in US. They both claimed there compiler was the first
+
+	Fortran - John Backus but by the time it was first created, there was no teletype so there is no input and output so they had to compiled in a punch card. So in order to code, you have to write your program in a piece of paper and handed over to the manager at IBM so they can created a punch card and feeded to the computer.
+
+	Every programming language in the world are all have some connection with John Backus because John created Algol, which then will become B and become C and become C++
+
+	Algo-58 didn't have IO, so you cannot take input and output from the program
+
+	Algo-60 finnaly came with an output: DISPLAY(...);
+
+	LISP was created at MIT by John McCarthy. LISP was then created to ease the burden of understanding assembly, but now it is considered a hard programming language to understand
+
+	COBOL was created by Grace Hopper and committees int the 60s,
+
+These language was still coded using paper and pencil at the time
+
+1960s: 
+	In 1963, John George Kemeny and Thomas Eugene Kurts created BASIC. it was generally teached at university at the time.
+
+	Lenneth Iverson created APL, which was not friendly to normal keyboard. He created his own keyboard for his own programming language.
+
+	APL and Fortran were very powerful
+
+	Simula was the first object oriented programming language created in 1967.
+	
+	Logo is an educational programming language, designed in 1967 by Wally Feurzeig, Seymour Papert and Cynthia Solomon because BASIC tired students of learning it. There was a logo turtle created with it and you would write your program to control the turtle.
+
+1970s:
+	At the time, a visual terminal was created, making it easier for people to get the result of the code. but it is not easy to navigate around your code because it was like show me line 20 and it will show line 20 and the send me line 21 ...
+
+	Pascal was created by by Niklaus Wirth. It was somewhere similar to ALGO-60 and BASIC. It was a training programming language.
+
+	1972 Smalltalk was created as a object-oriented programing language. But it was more like a messeges object oriented language. It base on the note that 2 component communicate with each other by a message.
+
+	C was created by Dennis Ritchie, derived from B(1969). It was the first programmign language that actually use Hello World as an example of printing output and exiting program. This gives people an understanding of memory management, which will tell a vague idea how garbage collector works in modern programming language.
+
+	Prolog by Alan Colmerauer created for expert systems
+
+	SQL created by IBM and it purpose was to manage database version 1 and version 2
+
+	C was a genius programming language so some people who really want to create a programming language created: Compiler Language With No Pronounceable Acronym (INTERCAL) as a joke programming language. Eg: .... end program with PLEASE GIVE UP or it will consume 100% of your cpu and kill it, if the program does not have enough PLEASE it will return error: programmer is not sufficiently polite enough and if too many please it will return programmer is excessively polite. You have to have enough pleases which is not documented anywhere 
+
+	ML created by Robin Milner which then became caml and then became OCaml (teached at Standford) which then became F#
+
+	Barbara Liskov created CLU in attempting to explain what Liskov substitution principle is. CLU has multiple return values.
+
+	Abel & Sussman at MIT created Scheme to simplify LISP. This was used to teachk programming at MIT CS601 : Structure and Interpretation of Computer Programs
+
+	MATLAB was created by Mathworks mostly to interpretate math. It simplify a lot of mathematical problems, mostly in machine learning and deep learning. However in order to use Matlab programs it cost some $ where you can use it freely using Octave, which also use MATLAB language.
+
+	VisiCalc by VisiCorp is a programable spreadsheet
+
+1980s: 
+	In 1983, C++ was created. 
+	In 1983, Apple created Objective C
+	In 1986, Niklaus created Object Pascal
+	In 1987, HyperTalk was created by Dan Winkler a guy from Apple
+	Joe Amstrong created Erlang in 1986
+	Larry Wall created Perl in 1987
+
+1990s:
+	Simon Peyton Jones et al created Haskell in 1990
+	Python was created in 1991 by Guido van Rossum
+	brainfuck created by Urban Muller in 1993
+	Visual Basic created by Alan Cooper & Microsoft in 1991
+	In 1995, James Gosling created Oak, which then joined with some folks in Sun Microsystems and changed name to Java
+
+	Rasmus Lerdorf created PHP to replaced Perl because Perl was too difficult.
+	Yukihiro Matsumoto created Ruby
+	Brendan Eich created a scripting language in a week called LiveScript, but it looks too much alike to Lisp so people asked him to changed to Java-like and he changed it an its name to JavaScript, which is now standardized to be called ECMAScript and to EcmaScript
+
+	The rest are Ocaml, Squeak Smalltalk, C++98, XSLT
+2000s:
+	Anders Heijsberg & team created C# in 2000: # is 2 ++ add on top of 2 ++ to make symbol #
+	EcmaScript 4 came out and a huge bust up happen and it changed to ActionScript
+	Lots of people write Programming language targeted to JVM: Scala, Groovy, Clojure, JRuby, Jython, Fantom
+	Microsoft want the same thing so CLI Languages were created: Boo, Nemerle, IronScheme, IronPython, IronDiscontinued, ClojureCLR, Fantom,...
+	F# was created by Don Syme and Microsoft Research
+
+	Go from google which is really good, it gots a compiled statically linked garbage collecter, and defer keyword and goroutines
+	Rust from Mozilla which is a programming language for writing browser engines
+
+	Language that compiled to JavaScript: 	CoffeeScript by Jeremy Ashkenas
+						Dart was similar to Rust created by Google
+						TypeScript by Anders Hejlsberg
+						...
